@@ -1,0 +1,14 @@
+/* src/App.css */
+.app-background {
+  background-color: #f5f5f5;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.card-img-custom {
+  height: 200px;
+  object-fit: cover;
+}
